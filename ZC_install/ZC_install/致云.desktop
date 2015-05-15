@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=kk
+Comment=power
+Exec=/home/john/kk/kk
+Icon=/home/john/ubuntu/ZC_install1/ZC_install/Resources/system/zcloudLogo.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Settings;DesktopSettings;X-Unity-Settings-Panel;HardwareSettings
+OnlyShowIn=Unity;
+X-Unity-Settings-Panel=power
+# Translators: those are keywords for the power control-center panel
+Keywords=Power;Sleep;Suspend;Hibernate;Battery;
+X-Ubuntu-Gettext-Domain=unity-control-center

@@ -1,0 +1,30 @@
+<RCC>
+	<qresource prefix="/qm">
+		<file alias="qt_zh_CN">Resources/system/qt_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/system">
+		<file alias="close">Resources/system/close.png</file>
+		<file alias="close_hover">Resources/system/close_hover.png</file>
+		<file alias="minimize">Resources/system/minimize.png</file>
+		<file alias="minimize_hover">Resources/system/minimize_hover.png</file>
+		<file alias="zcloudLogo">Resources/system/zcloudLogo.png</file>
+    </qresource>
+	<qresource prefix="/img">
+		<file alias="unstallStartBt">Resources/unstallStartBt.png</file>
+		<file alias="unstallStartBt_hover">Resources/unstallStartBt_hover.png</file>
+		<file alias="unstallStart">Resources/unstallStart.png</file>
+		<file alias="unstall">Resources/unstall.png</file>
+		<file alias="unstallFinishBt">Resources/unstallFinishBt.png</file>
+		<file alias="unstallFinishBt_hover">Resources/unstallFinishBt_hover.png</file>
+		<file alias="unstallFinish">Resources/unstallFinish.png</file>
+    </qresource>
+	<qresource prefix="/txt">
+		<file alias="widowTitle">Resources/txt/widowtitle.txt</file>
+		<file alias="zcTitle">Resources/txt/zctitle.txt</file>
+		<file alias="msgBoxcancel">Resources/txt/msgBoxcancel.txt</file>
+		<file alias="msgBoxok">Resources/txt/msgBoxok.txt</file>
+		<file alias="msgBoxquestion">Resources/txt/msgBoxquestion.txt</file>
+		<file alias="msgBoxtitle">Resources/txt/msgBoxtitle.txt</file>
+		<file alias="title">Resources/txt/title.txt</file>
+    </qresource>
+</RCC>

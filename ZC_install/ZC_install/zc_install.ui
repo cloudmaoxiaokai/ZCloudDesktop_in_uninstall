@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>ZC_installClass</class>
+ <widget class="QDialog" name="ZC_installClass" >
+  <property name="objectName" >
+   <string notr="true">ZC_installClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>ZC_install</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="zc_install.qrc"/>
+ </resources>
+ <connections/>
+</UI>

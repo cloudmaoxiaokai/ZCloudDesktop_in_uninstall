@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/qm">
+		<file alias="qt_zh_CN">qt_zh_CN.qm</file>
+    </qresource>
+	<qresource prefix="/system">
+		<file alias="close">Resources/system/close.png</file>
+		<file alias="close_hover">Resources/system/close_hover.png</file>
+		<file alias="minimize">Resources/system/minimize.png</file>
+		<file alias="minimize_hover">Resources/system/minimize_hover.png</file>
+		<file alias="zcloudLogo">Resources/system/zcloudLogo.png</file>
+    </qresource>
+	<qresource prefix="/beforeCopy">
+		<file alias="background">Resources/beforeCopy/deforeBackground.png</file>
+		<file alias="check">Resources/beforeCopy/check.png</file>
+		<file alias="check_hover">Resources/beforeCopy/check.png</file>
+		<file alias="check_pressed">Resources/beforeCopy/check.png</file>
+		<file alias="uncheck">Resources/beforeCopy/uncheck.png</file>
+		<file alias="uncheck_hover">Resources/beforeCopy/uncheck.png</file>
+		<file alias="uncheck_pressed">Resources/beforeCopy/uncheck.png</file>
+		<file alias="licenceBackground">Resources/beforeCopy/licenceBg.png</file>
+		<file alias="licenceButton">Resources/beforeCopy/licenceButton.png</file>
+		<file alias="licenceButton_hover">Resources/beforeCopy/licenceButton.png</file>
+		<file alias="licenceTxt">Resources/beforeCopy/license.txt</file>
+		<file alias="installButton">Resources/beforeCopy/installButton.png</file>
+		<file alias="installButton_hover">Resources/beforeCopy/installButton.png</file>
+		<file alias="installButton_pressed">Resources/beforeCopy/installButton.png</file>
+		<file alias="userDefButton">Resources/beforeCopy/userDefButton.png</file>
+		<file alias="userDefPathBg">Resources/beforeCopy/userDefPathBg.png</file>
+		<file alias="selectUserDefButton">Resources/beforeCopy/selectUserDefButton.png</file>
+		<file alias="selectUserDefButton_hover">Resources/beforeCopy/selectUserDefButton.png</file>
+    </qresource>
+	<qresource prefix="/copy">
+		<file alias="background">Resources/copy/copyBackground.png</file>
+    </qresource>
+	<qresource prefix="/updateCopy">
+		<file alias="background">Resources/updateCopy/updateBackground.png</file>
+		<file alias="updateButton">Resources/updateCopy/updateButton.png</file>
+        <file alias="updateButton_hover">Resources/updateCopy/updateButton_hover.png</file>
+		<file alias="updateFinishButton">Resources/updateCopy/updateFinishBt.png</file>
+		<file alias="updateFinishButton_hover">Resources/updateCopy/updateFinishBt_hover.png</file>
+    </qresource>
+	<qresource prefix="/finishCopy">
+		<file alias="background">Resources/finishCopy/finishBackground.png</file>
+		<file alias="experienceButton">Resources/finishCopy/experienceButton.png</file>
+		<file alias="experienceButton_hover">Resources/finishCopy/experienceButton.png</file>
+    </qresource>
+	<qresource prefix="/txt">
+		<file alias="widowTitle">Resources/txt/windowtitle.txt</file>
+		<file alias="zcTitle">Resources/txt/zctitle.txt</file>
+		<file alias="msgBoxcancel">Resources/txt/msgBoxcancel.txt</file>
+		<file alias="msgBoxok">Resources/txt/msgBoxok.txt</file>
+		<file alias="msgBoxquestion">Resources/txt/msgBoxquestion.txt</file>
+		<file alias="msgBoxtitle">Resources/txt/msgBoxtitle.txt</file>
+		<file alias="userLicense">Resources/txt/userLicense.txt</file>
+		<file alias="agreeLabel">Resources/txt/agreeLabel.txt</file>
+		<file alias="userDefLabel">Resources/txt/userDefLabel.txt</file>
+		<file alias="title">Resources/txt/title.txt</file>
+    </qresource>
+</RCC>
